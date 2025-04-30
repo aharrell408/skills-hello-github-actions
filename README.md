@@ -6,6 +6,8 @@ _Create and run a GitHub Actions workflow._
 
 </header>
 
+## Step 5: Trigger the workflow
+=======
 ## Finish
 
 _Congratulations friend, you've completed this course!_
@@ -27,6 +29,7 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - [Take another course on GitHub Actions](https://skills.github.com/#automate-workflows-with-github-actions)
 - Learn more about GitHub by reading the "[Get started](https://docs.github.com/get-started)" docs
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore)
+- :smile:
 
 <footer>
 
